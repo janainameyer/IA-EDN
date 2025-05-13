@@ -1,3 +1,8 @@
+'''8- Calculadora Simples
+Enunciado:
+Crie um programa que simule uma calculadora simples. O usuário deve informar dois números e a 
+operação desejada (+, -, *, /) e o programa deve exibir o resultado da operação.'''
+
 # Calculadora Simples em Python
 
 # Solicita ao usuário que insira dois números

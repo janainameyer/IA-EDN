@@ -1,3 +1,8 @@
+'''7- Verificador de Palíndromo
+Enunciado:
+Crie um programa que solicite uma palavra e verifique se ela é um palíndromo (ou seja, se pode ser lida da mesma forma de
+trás para frente).'''
+
 # Verificador de Palíndromo
 
 # Solicita ao usuário que insira uma palavra

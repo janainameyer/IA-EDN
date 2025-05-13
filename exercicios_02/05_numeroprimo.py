@@ -1,3 +1,8 @@
+'''5- Verificador de Número Primo
+Enunciado:
+Crie um programa que solicite um número inteiro positivo
+ao usuário e verifique se ele é um número primo. Um número primo só é divisível por ele mesmo.'''
+
 # Verificador de Número Primo
 
 # Solicita ao usuário que insira um número inteiro positivo

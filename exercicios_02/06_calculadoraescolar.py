@@ -1,3 +1,9 @@
+'''6- Calculadora de Média Escolar
+Enunciado:
+Desenvolva um programa que solicite o nome de um aluno e suas 3 notas. O programa deve calcular a
+média e informar se o aluno foi aprovado (média >= 7), está em recuperação (5 <= média < 7) ou foi
+reprovado (média < 5).'''
+
 # Calculadora de Média Escolar
 
 # Solicita o nome do aluno
